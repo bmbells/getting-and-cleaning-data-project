@@ -1,9 +1,11 @@
 Getting and Cleaning Data project
 ========================================================
 ##This Repo contains:
-*README.md
-*Code Book.md
-*run_analysis.R
+  README.md
+
+  Code Book.md
+
+  run_analysis.R
 
 The code book describes the variables in the data set created in the R script
 
